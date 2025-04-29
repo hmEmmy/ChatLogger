@@ -1,3 +1,4 @@
 name: ChatLogger
 version: '${project.version}'
 main: me.emmy.plugin.ChatLogger
+author: Emmy
